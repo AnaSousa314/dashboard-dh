@@ -5,7 +5,13 @@
 }
 
 .App{
-  background-color: blueviolet;
+  /* background-color: blueviolet; */
   display: flex;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+}
+
+main{
+  flex: 1;
+  background-color: #aaa7a771;
+  
 }
