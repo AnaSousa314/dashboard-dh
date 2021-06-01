@@ -133,6 +133,7 @@
   background-color: #fff;
   border-radius: 10px;
   width: 36vw;
+  height: fit-content;
 }
 
 .content-center-categoriesCategs{
